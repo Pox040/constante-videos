@@ -1,2 +1,8 @@
 # constante-videos
-Videos y portadas de las publicaciones de la marca Cnstante (mantenimiento de instalaciones)
+
+Vídeos y portadas de las publicaciones de Constante Mantenimiento en redes sociales.
+
+- `a-fondo/`: vídeos verticales «A fondo» (1080 × 1920 px) y su portada.
+- Todos los vídeos están creados con IA (avatar y voz sintéticos) y lo indican en pantalla.
+
+Este repositorio solo sirve para alojar los archivos que se programan en las redes. No contiene código.
